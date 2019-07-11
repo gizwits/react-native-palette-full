@@ -6,8 +6,6 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Handler;
-import android.support.annotation.Nullable;
-import android.support.v7.graphics.Palette;
 import android.util.Log;
 
 import com.facebook.common.executors.CallerThreadExecutor;
@@ -28,6 +26,9 @@ import com.facebook.react.bridge.WritableMap;
 
 import java.util.List;
 import java.util.Locale;
+
+import androidx.annotation.Nullable;
+import androidx.palette.graphics.Palette;
 
 public class RNPaletteModule extends ReactContextBaseJavaModule {
 
