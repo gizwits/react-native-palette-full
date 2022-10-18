@@ -34,7 +34,7 @@ info about colors from images or url, compatible with **Android** and **iOS**
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':react-native-palette-full')
+      implementation project(':react-native-palette-full')
   	```
 
 
