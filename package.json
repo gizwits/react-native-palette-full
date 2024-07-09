@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-gizwits-palette-full",
-  "version": "1.2.0",
+  "version": "1.2.3",
   "description": "兼容70RN",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,6 @@
   "author": "Gizwits",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.55"
+    "react-native": "^0.68"
   }
 }
